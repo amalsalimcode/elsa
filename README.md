@@ -5,7 +5,7 @@ The following is a small authentication server using python built using Flask.
 # Endpoints
 -   /register: given an email address and a password as parameters, it creates a user record
 -   /login: given an email and password, it returns a session token if successful, or 400 error
--   /resetpassword:: given an email, current password and new password.
+-   /resetpassword: an endpoint to reset the password
 -   /: an endpoint to see all registered users
 
 The authentication server currently SQLite as db. 
