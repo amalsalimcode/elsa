@@ -1,6 +1,6 @@
 # Authentication Server
 
-The following is a small authentication server using python built using Flask. The server serves the following endpoint
+The following is a small authentication server using python built using Flask. 
 
 # Endpoints
 -   /register: given an email address and a password as parameters, it creates a user record
